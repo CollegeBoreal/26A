@@ -19,6 +19,6 @@
 | Système de gestion de bases de données       | INF1096 |
 | Développement d’applications                 | INF1083 | [:zero::five:](https://github.com/CollegeBoreal/INF1083-200-26A-05) 🔗 [:zero::six:](https://github.com/CollegeBoreal/INF1083-200-26A-06)
 | Réseautique 3                                | INF1097 |
-| Administration Windows                       | INF1084 | [:zero::six:](https://github.com/CollegeBoreal/INF1085-202-26A-06)
-| Administration Linux                         | INF1085 | [:zero::four:](https://github.com/CollegeBoreal/INF1084-201-26A-04) 🔗 [:zero::five:](https://github.com/CollegeBoreal/INF1084-201-26A-05)
+| Administration Windows                       | INF1084 | [:zero::six:](https://github.com/CollegeBoreal/INF1084-202-26A-06)
+| Administration Linux                         | INF1085 | [:zero::four:](https://github.com/CollegeBoreal/INF1085-201-26A-04) 🔗 [:zero::five:](https://github.com/CollegeBoreal/INF1085-201-26A-05)
 | Formation générale                           | GENxxxx |
